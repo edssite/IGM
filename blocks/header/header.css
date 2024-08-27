@@ -16,7 +16,7 @@ header nav {
   gap: 0 24px;
   margin: auto;
   max-width: 1248px;
-  height: var(--nav-height);
+  height: 130px;
   padding: 0 24px;
   font-family: var(--body-font-family);
 }
@@ -142,10 +142,12 @@ header .nav-brand {
   font-size: var(--heading-font-size-s);
   font-weight: 700;
   line-height: 1;
+  padding: 10px;
+  margin-bottom: 25px;
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  width: 112px;
   height: auto;
 }
 
@@ -155,6 +157,7 @@ header nav .nav-sections {
   flex: 1 1 auto;
   display: none;
   visibility: hidden;
+  margin-top: 40px;
 }
 
 header nav[aria-expanded='true'] .nav-sections {
