@@ -16,6 +16,10 @@
  @import url("../blocks/custom/shadow-card.css");
  @import url("../blocks/custom/simple-card.css");
  @import url("../blocks/custom/gray-banner.css");
+ @import url("../blocks/custom/about.css");
+ @import url("../blocks/custom/purpose.css");
+ @import url("../blocks/custom/pursuit.css");
+ @import url("../blocks/custom/culture.css");
 
 :root {
   /* colors */
