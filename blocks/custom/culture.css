@@ -1,4 +1,4 @@
-.culture-description > div h4{
+.culture-description > div h4 {
     color: #00a2b6;
     width: 900px;
     display: flex;
@@ -12,17 +12,11 @@
     font-weight: 600;
 }
 
-
-
-
-.culture-items > div > div > div{
+.culture-items > div > div > div {
     display: flex;
-
-
 }
 
-
-.culture-items  {
+.culture-items {
     display: flex;
     justify-content: center; /* Center horizontally */
 
@@ -32,36 +26,21 @@
 .culture-items > div {
     width: 200px;
     padding: 2rem;
-    
-
-
 }
-.culture-items > div > div p{
+.culture-items > div > div p {
     width: 200px;
     font-size: 1rem;
     font-weight: bolder;
-
 }
 
-.culture-items > div > div h3{
+.culture-items > div > div h3 {
     width: 200px;
     font-size: 1.375rem;
     font-weight: bolder;
     color: #00a2b6;
-
 }
 
-
-
-.culture-items > div > div > picture img{
+.culture-items > div > div > picture img {
     width: 200px;
     height: 80px;
 }
-
-
-
-
-
-
-
-

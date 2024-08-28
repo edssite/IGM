@@ -4,36 +4,26 @@
     padding-bottom: 50px;
 }
 
-
-
-.purpose-card > div{
+.purpose-card > div {
     display: flex;
     padding: 5px;
-
 }
 
-.purpose-card > div > div{
+.purpose-card > div > div {
     width: 500px;
     padding-right: 50px;
 }
 
-
-
-.purpose-card > div > div h2{
+.purpose-card > div > div h2 {
     color: #00a2b6;
     font-size: 2rem;
 }
-
 
 .purpose-card > div > div {
     font-size: 1.375rem;
 }
 
-
-.purpose-card > div > div > picture img{
+.purpose-card > div > div > picture img {
     width: 394px;
     height: 548px;
 }
-
-
-

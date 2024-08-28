@@ -1,15 +1,11 @@
-.pursuit-card > div{
+.pursuit-card > div {
     display: flex;
-
-
 }
 
-
-
-.pursuit-card > div > div h3,p{
+.pursuit-card > div > div h3,
+p {
     width: 550px;
     padding-right: 50px;
-
 }
 
 .pursuit-card > div h2 {
@@ -20,16 +16,12 @@
     color: #00a2b6;
 }
 
-
-.pursuit-card > div > div h3{
+.pursuit-card > div > div h3 {
     color: #00a2b6;
     font-size: 1.375rem;
-
 }
 
-.pursuit-card > div > div p{
-
+.pursuit-card > div > div p {
     font-size: 1.375rem;
     padding-bottom: 25px;
-
 }
