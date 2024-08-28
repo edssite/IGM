@@ -1,0 +1,26 @@
+.ceo-card > div {
+    display: flex;
+}
+
+.ceo-card > div > div:first-child img {
+    width: 77%;
+}
+
+.ceo-card > div > div:last-child {
+    background-color: rgb(1, 1, 101);
+    color: white;
+    border-radius: 15px;
+    width: 40%;
+    padding: 20px;
+    height: 90%;
+}
+
+.ceo-card > div > div:last-child h2 {
+    font-size: x-large;
+    width: 95%;
+}
+
+.ceo-card > div > div:last-child p {
+    text-align: right;
+    margin-right: 12px;
+}
