@@ -1,0 +1,17 @@
+.simple-card > div {
+display: flex;
+padding: 5px;
+}
+
+.simple-card > div > div {
+    padding: 20px;
+}
+
+
+.simple-card h2 {
+    color: #53AAC8;
+}
+
+.simple-cardp {
+    color: #4b4b4b;
+}

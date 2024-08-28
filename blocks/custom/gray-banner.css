@@ -1,0 +1,24 @@
+.gray-banner-container {
+    background-color: rgb(245, 245, 245);
+}
+
+.gray-banner {
+    padding: 15px;
+    text-align: center;
+}
+
+.gray-banner h1 {
+    color: #53AAC8;
+    font-size: xx-large;
+}
+
+.gray-banner p {
+    text-align: left;
+    width: 60%;
+    margin-left: 300px;
+    font-size: medium;
+}
+
+.gray-banner > div:first-child {
+    padding-bottom: 20px;
+}
