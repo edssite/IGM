@@ -1,0 +1,28 @@
+.board-of-directors > div h2 {
+    font-size: 2rem;
+    color: #00a2b6;
+    margin-bottom: 50px;
+}
+
+.board-of-directors > div {
+    display: flex;
+}
+
+.board-of-directors > div > div p {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    width: 375px;
+    font-size: 1rem;
+}
+
+.board-of-directors > div > div h4 {
+    font-size: 1rem;
+    margin-top: 24px;
+}
+
+.board-of-directors-wrapper {
+    border-style: solid;
+    border-width: 0 0 1px 0; /* Set bottom border width and remove others */
+    border-color: transparent transparent #dcdcdc transparent; /* Set bottom border color */
+    padding-bottom: 50px !important; /* Adjust the value to move the border down */
+}
