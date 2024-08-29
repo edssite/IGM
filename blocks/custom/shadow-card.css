@@ -1,17 +1,29 @@
 .shadow-card {
     display: flex;
     gap: 25px;
+    height: 400px;
 }
 
 .shadow-card > div {
     box-shadow: 0 1px 12px rgba(190, 190, 190, 0.663);
     padding: 15px;
+    width: 30%;
 }
 
 
 .shadow-card > div h3 {
 font-family: nunito;
 font-size: x-large;
+}
+
+.shadow-card > div p {
+    font-family: nunito;
+    font-size: small;
+    width: 80%;
+}
+
+.shadow-card-container {
+
 }
 
 
@@ -22,4 +34,5 @@ font-size: x-large;
     height: 100%; /* Ensure the container has a height if needed */
     width: 100%; /* Ensure the container has a width if needed */
     padding-top: 20px;
+    padding-left: 300px;
 }
