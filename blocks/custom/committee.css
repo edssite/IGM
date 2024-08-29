@@ -1,0 +1,14 @@
+.committee-info > div {
+    display: flex;
+}
+
+.committee-info > div > div:first-child p {
+    width: 1px;
+    padding-right: 25px !important;
+}
+
+.committee-info > div > div p {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    font-size: 1rem;
+}
